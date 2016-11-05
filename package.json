@@ -1,0 +1,27 @@
+{
+  "name": "after",
+  "version": "0.0.1",
+  "description": "Simple and concise Promises/A+ implementation",
+  "main": "after.js",
+  "dependencies": {},
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests ./test/adapter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyngate/after.git"
+  },
+  "keywords": [
+    "promise",
+    "promises"
+  ],
+  "author": "Igor Stroganov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyngate/after/issues"
+  },
+  "homepage": "https://github.com/flyngate/after#readme"
+}
